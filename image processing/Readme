@@ -1,3 +1,7 @@
 In this section, I will try to establish functions about image processing executed with CPU and GPU and compare their performance. 
 
+I should indicate that my platform is NVIDIA GTX1060, so I think it's not so fast as other platforms with better performance such as Titan.
+
+so these results are restricted in some sense, but I will give some advice according to them.
+
 I am new to cuda, so if there is some errors, please help me to deal with that, thank you.
