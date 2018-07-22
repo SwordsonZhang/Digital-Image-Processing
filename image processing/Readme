@@ -5,3 +5,5 @@ I should indicate that my platform is NVIDIA GTX1060, so I think it's not so fas
 so these results are restricted in some sense, but I will give some advice according to them.
 
 I am new to cuda, so if there is some errors, please help me to deal with that, thank you.
+
+uchar2Float: transform uchar-type images to float with cuda.
